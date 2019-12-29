@@ -12,3 +12,5 @@ matrix:
     - rvm: jruby-9.1
     - rvm: jruby-9.2
     - rvm: truffleruby
+jdk:
+  - openjdk8
