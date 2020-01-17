@@ -1,4 +1,4 @@
-The `kiba` binary command is removed from Kiba ETL v3:
+This gem provides a `bin/kiba-legacy-cli` command, which mimics the `bin/kiba` (removed in Kiba ETL v3), as described here: 
 
 https://github.com/thbar/kiba/issues/74
 
