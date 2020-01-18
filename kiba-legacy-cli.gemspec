@@ -14,7 +14,8 @@ Gem::Specification.new do |gem|
   gem.version       = Kiba::Legacy::CLI::VERSION
   gem.executables   = ['kiba-legacy-cli']
   gem.metadata      = {
-    'source_code_uri'   => 'https://github.com/thbar/kiba-legacy-cli'
+    'source_code_uri'   => 'https://github.com/thbar/kiba-legacy-cli',
+    'documentation_uri' => 'https://github.com/thbar/kiba-legacy-cli/blob/master/README.md',
   }
 
   # TODO: enable
