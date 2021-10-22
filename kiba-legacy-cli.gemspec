@@ -18,7 +18,7 @@ Gem::Specification.new do |gem|
     'documentation_uri' => 'https://github.com/thbar/kiba-legacy-cli/blob/master/README.md',
   }
 
-  gem.add_dependency 'kiba', '~> 3.0'
+  gem.add_dependency 'kiba', '>= 3.0.0', '< 5'
 
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'minitest', '~> 5.9'
